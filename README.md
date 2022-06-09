@@ -6,9 +6,8 @@ Sawazisha is tiny reset css framework
 ###### cdn
 
 ```css
-<link href="https://res.cloudinary.com/mkoloni/raw/upload/v1648297950/pendeza.min_olg0ge.css" rel="stylesheet">
+<link href="https://res.cloudinary.com/mkoloni/raw/upload/v1654776549/sawazisha_qmswfb.css" rel="stylesheet">
 ```
-
 
 ###### git clone
 ```sh
